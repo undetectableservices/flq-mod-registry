@@ -4,16 +4,16 @@
   "gameName": "The Binding of Isaac: Rebirth",
   "modId": "flq-process-binding-of-isaac-rebirth",
   "modName": "FLQ.inject - The Binding of Isaac: Rebirth",
-  "version": "1.0.0",
-  "releaseTag": "v2026.06.29",
-  "updatedAt": "2026-06-29T00:44:44Z",
+  "version": "1.0.1",
+  "releaseTag": "binding-of-isaac-rebirth-v1.0.1",
+  "updatedAt": "2026-06-29T17:53:19Z",
   "dlls": [
     {
       "targetName": "opengl32.dll",
       "assetName": "opengl32.dll",
-      "url": "https://github.com/undetectableservices/flq-mod-registry/releases/download/v2026.06.29/opengl32.dll",
-      "size": 355840,
-      "sha256": "E0E64E3982AD898BC429E611A1653FF9D5DF1B5AA5F40A04A0AB6C6D2387EE4C"
+      "url": "https://github.com/undetectableservices/flq-mod-registry/releases/download/binding-of-isaac-rebirth-v1.0.1/opengl32.dll",
+      "size": 356352,
+      "sha256": "0F72EB6D0DF462354B3FD2A8DF80AD8AE155DDD1672FFAE8D724462802B098B3"
     }
   ]
 }
