@@ -13,7 +13,7 @@
       "mods": [
         {
           "id": "flq-process-btd6",
-          "name": "FLQ Process - BTD6",
+          "name": "FLQ.inject - Bloons TD 6",
           "version": "1.0.0",
           "channel": "stable",
           "updatedAt": "2026-06-27T01:29:40Z",
@@ -40,7 +40,7 @@
       "mods": [
         {
           "id": "flq-process-binding-of-isaac-rebirth",
-          "name": "FLQ Process - Binding of Isaac Rebirth",
+          "name": "FLQ.inject - The Binding of Isaac: Rebirth",
           "version": "1.0.0",
           "channel": "stable",
           "updatedAt": "2026-06-29T00:44:44Z",

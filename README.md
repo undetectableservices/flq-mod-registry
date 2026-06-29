@@ -8,8 +8,8 @@ The launcher should read `manifest.json`, match installed Steam games by `appid`
 
 | Game | Steam App ID | Version | Target DLL |
 | --- | --- | --- | --- |
-| Bloons TD 6 | `960090` | `1.0.0` | `d3d11.dll` |
-| The Binding of Isaac: Rebirth | `250900` | `1.0.0` | `opengl32.dll` |
+| FLQ.inject - Bloons TD 6 | `960090` | `1.0.0` | `d3d11.dll` |
+| FLQ.inject - The Binding of Isaac: Rebirth | `250900` | `1.0.0` | `opengl32.dll` |
 
 ## Update Rule
 
