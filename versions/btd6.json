@@ -1,0 +1,19 @@
+{
+  "gameId": "btd6",
+  "appid": "960090",
+  "gameName": "Bloons TD 6",
+  "modId": "flq-process-btd6",
+  "modName": "FLQ Process - BTD6",
+  "version": "1.0.0",
+  "releaseTag": "v2026.06.29",
+  "updatedAt": "2026-06-27T01:29:40Z",
+  "dlls": [
+    {
+      "targetName": "d3d11.dll",
+      "assetName": "btd6-d3d11-v1.0.0.dll",
+      "url": "https://github.com/undetectableservices/flq-mod-registry/releases/download/v2026.06.29/btd6-d3d11-v1.0.0.dll",
+      "size": 417792,
+      "sha256": "A3D1705433D4F020F19545C0910CE794600779067F9769578096D5D13DE26F90"
+    }
+  ]
+}
